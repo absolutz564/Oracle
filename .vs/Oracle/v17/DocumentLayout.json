@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jailson\\Oracle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{997515BC-B688-FCC8-D8DD-E81B90786E72}|Assembly-CSharp.csproj|c:\\users\\jailson\\oracle\\assets\\scripts\\draganddestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997515BC-B688-FCC8-D8DD-E81B90786E72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draganddestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997515BC-B688-FCC8-D8DD-E81B90786E72}|Assembly-CSharp.csproj|c:\\users\\jailson\\oracle\\assets\\scripts\\splashscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997515BC-B688-FCC8-D8DD-E81B90786E72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\splashscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SplashSceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jailson\\Oracle\\Assets\\Scripts\\SplashSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SplashSceneManager.cs",
+              "ToolTip": "C:\\Users\\Jailson\\Oracle\\Assets\\Scripts\\SplashSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SplashSceneManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:54:31.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DragAndDestroy.cs",
+              "DocumentMoniker": "C:\\Users\\Jailson\\Oracle\\Assets\\Scripts\\DragAndDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragAndDestroy.cs",
+              "ToolTip": "C:\\Users\\Jailson\\Oracle\\Assets\\Scripts\\DragAndDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragAndDestroy.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T23:24:38.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

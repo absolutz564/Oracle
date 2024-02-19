@@ -1,0 +1,4 @@
+repository "Oracle@dilisgscg@cloud"
+  path "/"
+    br "/main"
+    co "/main"
